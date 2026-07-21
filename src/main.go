@@ -14,6 +14,7 @@ func main() {
   var myString string = "Hello" + " " + "World"
   fmt.Println(myString)
   fmt.Println(intNuma)
+  fmt.Println(floatNum32)
 }
 
 
