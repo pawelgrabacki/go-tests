@@ -1,4 +1,4 @@
-module github.com/pawelgrabacki/go-tests.git
+module github.com/pawelgrabacki/go-tests
 
 go 1.26.5
 
