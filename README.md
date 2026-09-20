@@ -1,3 +1,3 @@
 ### Go tests
 
-Place for golang tests
+Place for golang tests.
