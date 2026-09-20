@@ -1,8 +1,7 @@
 package basics
 
-import "github.com/pawelgrabacki/go-tests/basics"
+import "fmt"
 
-func main() {
-
-	basics.Hello("Hi")
+func Hello(name string) {
+	fmt.Printf("Hello %s!", name)
 }
